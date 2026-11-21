@@ -125,6 +125,7 @@ Monitoring & Observability
 
 I’m interested in connecting with DevOps professionals, cloud engineers and technology teams across the UK and Europe.
 
+
 ⸻
 
 Building secure, scalable and automated cloud-native platforms.
